@@ -10,7 +10,7 @@ const truncate = (input, len) =>
 
 export const StyledButton = styled.button`
   padding: 10px;
-  border-radius: 50px;
+  border-radius: 10px;
   border: none;
   background-color: var(--secondary);
   padding: 10px;
@@ -30,7 +30,7 @@ export const StyledButton = styled.button`
 
 export const StyledRoundButton = styled.button`
   padding: 10px;
-  border-radius: 100%;
+  border-radius: 10px;
   border: none;
   background-color: var(--primary);
   padding: 10px;
@@ -78,7 +78,7 @@ export const StyledImg = styled.img`
   box-shadow: 0px 5px 11px 2px rgba(0, 0, 0, 0.7);
   border: 4px dashed var(--secondary);
   background-color: var(--accent);
-  border-radius: 100%;
+  border-radius: 1%;
   width: 200px;
   @media (min-width: 900px) {
     width: 250px;
