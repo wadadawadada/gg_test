@@ -66,7 +66,7 @@ export const ResponsiveWrapper = styled.div`
 `;
 
 export const StyledLogo = styled.img`
-  width: 400px;
+  width: 600px;
   @media (min-width: 767px) {
     width: 300px;
   }
@@ -217,7 +217,7 @@ function App() {
             style={{
               backgroundColor: "var(--accent)",
               padding: 24,
-              borderRadius: 2,
+              borderRadius: 10,
               border: "4px solid var(--secondary)",
               boxShadow: "0px 5px 11px 2px rgba(0,0,0,0.7)",
             }}
