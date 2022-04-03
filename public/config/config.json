@@ -10,9 +10,9 @@
   "SYMBOL": "GANJA",
   "MAX_SUPPLY": 420,
   "WEI_COST": 80000000000000000,
-  "DISPLAY_COST": 0.08,
+  "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ganja-grow-jfazzeqvan",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ganja-grow-epwyzcchui",
   "SHOW_BACKGROUND": true
 }
