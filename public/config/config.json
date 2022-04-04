@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0x362b6dF1d42E51A01588824ef65f9722f4d20758",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x362b6dF1d42E51A01588824ef65f9722f4d20758",
+  "CONTRACT_ADDRESS": "0xd0B4b046E156Db8EBa75a9f0182f467894b69ec6",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd0B4b046E156Db8EBa75a9f0182f467894b69ec6",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.001,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ganja-grow-xtdemxmxtg",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ganja-grow-isnmarac9e",
   "SHOW_BACKGROUND": true
 }
