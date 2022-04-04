@@ -2,11 +2,11 @@
   "CONTRACT_ADDRESS": "0x362b6dF1d42E51A01588824ef65f9722f4d20758",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x362b6dF1d42E51A01588824ef65f9722f4d20758",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "Ganja Grow",
+  "NFT_NAME": "Ganja Grow - xtdemXMxtG",
   "SYMBOL": "GANJA",
   "MAX_SUPPLY": 20,
   "WEI_COST": 1000000000000000,
