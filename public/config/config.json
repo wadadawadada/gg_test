@@ -1,6 +1,6 @@
 {
-  "CONTRACT_ADDRESS": "0xd0B4b046E156Db8EBa75a9f0182f467894b69ec6",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xd0B4b046E156Db8EBa75a9f0182f467894b69ec6",
+  "CONTRACT_ADDRESS": "0xeA415B55c3818f4089D6C41Aa7282fB891f1D600",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xeA415B55c3818f4089D6C41Aa7282fB891f1D600",
   "NETWORK": {
     "NAME": "Ethereum",
     "SYMBOL": "ETH",
@@ -8,9 +8,9 @@
   },
   "NFT_NAME": "Ganja Grow",
   "SYMBOL": "GANJA",
-  "MAX_SUPPLY": 20,
-  "WEI_COST": 1000000000000000,
-  "DISPLAY_COST": 0.001,
+  "MAX_SUPPLY": 420,
+  "WEI_COST": 80000000000000000,
+  "DISPLAY_COST": 0.08,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
   "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ganja-grow-isnmarac9e",
