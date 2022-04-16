@@ -9,10 +9,10 @@
   "NFT_NAME": "Ganja Grow",
   "SYMBOL": "GANJA",
   "MAX_SUPPLY": 420,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "WEI_COST": 42000000000000000,
+  "DISPLAY_COST": 0.042,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opensea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/ganja-grow",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ganjagrow",
   "SHOW_BACKGROUND": true
 }
